@@ -5,3 +5,5 @@
 Para ejecutar el proyecto, debes poner: 
 
 ´´´npm instal react´´´
+
+sistema de regisro 2
